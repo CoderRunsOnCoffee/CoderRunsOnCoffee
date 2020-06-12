@@ -1,0 +1,87 @@
+body {
+  background: rgb(240, 240, 240, 240);
+  color: rgb(20, 20, 31);
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  margin: 0%;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #f26419;
+  font-weight: bold;
+}
+h2 {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.btn-info {
+  text-decoration: none;
+  color: white;
+}
+.btn-info:hover {
+  text-decoration: none;
+  color: rgb(45, 248, 214);
+}
+
+/* Custom Design*/
+
+#Banner {
+  background-image: url(images/ardalan-hamedani-W-KuVUHLVWY-unsplash.jpg);
+  padding: 100px 0;
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  text-align: center;
+  margin-bottom: 10px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#Banner h1 {
+  color: #eed5c2;
+}
+
+#Banner p {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.card {
+  text-align: center;
+  padding: 50px;
+  font-weight: lighter;
+}
+.card p {
+  font-size: 20px;
+}
+
+#footer {
+  background-color: #011627;
+  color: #fdfffc;
+  font-size: 20px;
+  padding: 40px;
+}
+
+#footer a {
+  list-style: none;
+  font-size: 20px;
+  color: #797b84;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+ul.list-inline {
+  text-align: right;
+}
+
+span {
+  display: inline-flex;
+  vertical-align: top;
+  padding: 5px 5px;
+  margin-top: -20px;
+}

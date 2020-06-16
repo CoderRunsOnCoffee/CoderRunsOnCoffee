@@ -5,11 +5,13 @@ body {
   font-size: 25px;
   margin: 0%;
 }
+
 h1 {
   font-family: "Roboto", sans-serif;
   color: #f26419;
   font-weight: bold;
 }
+
 h2 {
   font-size: 18px;
   font-weight: normal;
@@ -19,10 +21,12 @@ h2 {
   text-decoration: none;
   color: white;
 }
+
 .btn-info:hover {
   text-decoration: none;
   color: rgb(45, 248, 214);
 }
+
 
 /* Custom Design*/
 
@@ -54,6 +58,7 @@ h2 {
   padding: 50px;
   font-weight: lighter;
 }
+
 .card p {
   font-size: 20px;
 }
